@@ -30,3 +30,7 @@ Feel free to add links to particular concepts whenever possible, and aim to foll
 - Pivot
 
 - Dual prices
+
+## ESI 4011
+
+- Smart city
