@@ -21,6 +21,8 @@ Feel free to add links to particular concepts whenever possible, and aim to foll
 
 - Hierarchical clustering
 
+- Association rule mining 
+
 - ...
 
 ## EGN 3448
@@ -31,6 +33,10 @@ Feel free to add links to particular concepts whenever possible, and aim to foll
 
 - Dual prices
 
+- ...
+
 ## ESI 4011
 
 - Smart city
+
+- ...
