@@ -14,7 +14,7 @@ Feel free to add links to particular concepts whenever possible, and aim to foll
 
 - Watching Students struggle with STATA is rough
 
-- H O M O S C E D A S I C I T Y 
+- H O M O S C E D A S T I C I T Y 
  ...
 
 
@@ -45,3 +45,11 @@ Feel free to add links to particular concepts whenever possible, and aim to foll
 - Smart city
 
 - ...
+
+## ENT 2112
+
+- Entrepreneural Oppurtunity Analysis
+
+- Great class
+
+- Recommend it for everyone
