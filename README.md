@@ -40,3 +40,11 @@ Feel free to add links to particular concepts whenever possible, and aim to foll
 - Smart city
 
 - ...
+
+## ENT 2112
+
+- Entrepreneural Oppurtunity Analysis
+
+- Great class
+
+- Recommend it for everyone
