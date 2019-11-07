@@ -10,7 +10,9 @@ Feel free to add links to particular concepts whenever possible, and aim to foll
 
 - Normal distribution
 
-- ...
+- Is Super Scary
+- Watching Students struggle with STATA is rough
+ ...
 
 
 ## CAP 4770
