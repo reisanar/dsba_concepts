@@ -1,5 +1,4 @@
 ## Owen Dostie
-
-2nd best Super Smash Bros. Melee player at Florida Polytechnic University 
-I like making music
-Highly experienced procrastinator
+\n
+2nd best SSBM player at Florida Polytechnic University 
+Can't stop addicted to the shindig
